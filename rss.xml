@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+		<channel>
+			<title>TEGcasts</title>
+			<link>https://radar.brookes.ac.uk/<link>
+			<language>en-gb</language>
+			<copyright>&#xA9; 2018 Digital Services, Oxford Brookes University</copyright>
+			<itunes:subtitle>The Technology Experimentation Group podcast</itunes:subtitle>
+			<itunes:author>Digital Services</itunes:author>
+			<itunes:summary>Digital Services make a podcast.</itunes:summary>
+			<description>The official podcast of the Digital Services team at Oxford Brookes University. Recorded by Richard Francis and Harry Kalantzis.</description>
+			<itunes:owner>
+    			<itunes:name>Digital Services</itunes:name>
+    			<itunes:email>digitalservices@brookes.ac.uk</itunes:email>
+			</itunes:owner>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://radar.brookes.ac.uk/radar/file/12ba7176-c6b4-4353-a233-9e9f606a6911/1/tegcasts-artwork.png" />
+			<itunes:category text="Education">
+				<itunes:category text="Technology"/>
+			</itunes:category>
+
+			<item>
+    			<title>TEGcast Episode 1: the one in which Richard and Harry discover Zencastr.</title>
+    			<itunes:summary>Richard and Harry discover Zencastr.</itunes:summary>
+    			<description>Harry tells me we need “show notes” to accompany the audio. So here they are. In this our first episode Harry and I discover and try out Zencastr, a platform for recording high quality audio interviews on VoIP. As you’ll hear, you can also take your guest by surprise by adding sound effects, as Harry does to me!</description>
+    			<link>http://techexperiments.brookesblogs.net/2018/02/06/tegcast-episode-1-discovering-zencastr/</link>
+    			<enclosure url="https://radar.brookes.ac.uk/radar/file/12ba7176-c6b4-4353-a233-9e9f606a6911/1/episode1-the-one-in-which-richard-and-harry-discover-zencastr.mp3" type="audio/mpeg" length="1024"></enclosure>
+    			<pubDate>Tue, 6 Feb 2018 10:01:07 +0000</pubDate>
+    			<itunes:author>Digital Services</itunes:author>
+    			<itunes:duration>00:01:28</itunes:duration>
+    			<itunes:explicit>false</itunes:explicit>
+    			<guid>http://techexperiments.brookesblogs.net/2018/02/06/tegcast-episode-1-discovering-zencastr/</guid>
+			</item>
+ 
+			<item>
+   			 <title>TEGcast Episode 2: the one in which Harry saves Richard from digital demise.</title>
+    		 <itunes:summary>Harry saves Richard from digital demise.</itunes:summary>
+    		 <description>In this episode, Richard has been replaced by a digital assistant. His battery runs dangerously low and Harry has to come to the rescue. Exciting times indeed.</description>
+    		 <link>http://techexperiments.brookesblogs.net/2018/03/05/the-one-in-which-harry-saves-richard-from-digital-demise/</link>
+    		 <enclosure url="https://radar.brookes.ac.uk/radar/file/12ba7176-c6b4-4353-a233-9e9f606a6911/1/episode2-the-one-in-which-Harry-saves-Richard-from-digital-demise.mp3" type="audio/mpeg" length="1024"></enclosure>
+    		 <pubDate>Mon, 5 Mar 2018 10:01:07 +0000</pubDate>
+    		 <itunes:author>Digital Services</itunes:author>
+    		 <itunes:duration>00:01:28</itunes:duration>
+    		 <itunes:explicit>false</itunes:explicit>
+    		 <guid>http://techexperiments.brookesblogs.net/2018/03/05/the-one-in-which-harry-saves-richard-from-digital-demise/</guid>
+		 </item> 
+
+		 <item>
+    		 <title>TEGcast Episode 3: the one in which Harry and Richard float off into outer space.</title>
+    		 <itunes:summary>”I’m sorry Larry. I’m afraid I can’t do that.”</itunes:summary>
+    		 <description>This episode is subtitled: ‘”I’m sorry Larry. I’m afraid I can’t do that.” Just another everyday altercation with the IT Service Desk.’ And comes with apologies to Stanley Kubrick.</description>
+    		 <link>http://techexperiments.brookesblogs.net/2018/03/15/tegcast-episode-3-the-one-in-which-harry-and-richard-float-off-into-outer-space/</link>
+    		 <enclosure url="https://radar.brookes.ac.uk/radar/file/12ba7176-c6b4-4353-a233-9e9f606a6911/1/episode3-the-one-in-which-harry-and-richard-float-off-into-outer-space.mp3" type="audio/mpeg" length="1024"></enclosure>
+    		 <pubDate>Thu, 15 Mar 2018 10:01:07 +0000</pubDate>
+    		 <itunes:author>Digital Services</itunes:author>
+    		 <itunes:duration>00:01:28</itunes:duration>
+    		 <itunes:explicit>false</itunes:explicit>
+    		 <guid>http://techexperiments.brookesblogs.net/2018/03/15/tegcast-episode-3-the-one-in-which-harry-and-richard-float-off-into-outer-space/</guid>
+		 </item> 
+
+		 <item>
+    		 <title>TEGcast Episode 4: the one in which Harry’s workout gets interrupted.</title>
+    		 <itunes:summary>Harry’s workout gets interrupted.</itunes:summary>
+    		 <description>Harry is doing his daily routine workout until he gets interrupted by Feedback Studio.</description>
+    		 <link>http://techexperiments.brookesblogs.net/2018/05/14/tegcast-episode-4-the-one-in-which-harrys-workout-gets-interrupted/</link>
+    		 <enclosure url="https://radar.brookes.ac.uk/radar/file/12ba7176-c6b4-4353-a233-9e9f606a6911/1/episode4-the-one-in-which-harrys-workout-gets-interrupted.mp3" type="audio/mpeg" length="1024"></enclosure>
+   	 		<pubDate>Mon, 14 May 2018 10:01:07 +0000</pubDate>
+    		<itunes:author>Digital Services</itunes:author>
+    		<itunes:duration>00:01:28</itunes:duration>
+    		<itunes:explicit>false</itunes:explicit>
+    		<guid>http://techexperiments.brookesblogs.net/2018/05/14/tegcast-episode-4-the-one-in-which-harrys-workout-gets-interrupted/</guid>
+		</item> 
+   
+	</channel>
+</rss>
